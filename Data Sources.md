@@ -10,7 +10,7 @@ The Common Objects in Context dataset is another large-scale image dataset that 
 This photo-sharing website is a good source of diverse and high-quality images, although it may require additional cleaning and preprocessing.
 
 ###### Self-collected data:
-Depending on the application, it may be necessary to collect and label your own data to train the model on specific types of images.
+Depending on the application, it may be necessary to collect and label our own data to train the model on specific types of images.
 
 Once the data sources have been identified, several stages of preprocessing, feature engineering, and analysis can be applied to ensure that the model is able to generate high-quality images. Some common techniques and methods include:
 
