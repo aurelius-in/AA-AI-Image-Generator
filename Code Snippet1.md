@@ -2,7 +2,7 @@
 
 Here's a code snippet in Python using the PyTorch library to define the generator network for the GAN:
 
-'''
+```
 import torch
 import torch.nn as nn
 
@@ -28,4 +28,4 @@ class Generator(nn.Module):
     def forward(self, z):
         x = self.model(z)
         return x
-'''
+```
