@@ -3,9 +3,9 @@
 ## Artistic Algorithm (AA) AI Image Generator
 
 ### Oliver Ellison, MS SD
-#### 3/06/2021
+##### 3/06/2021
 
-##### Contents
+#### CONTENTS
 ###### Problem Statement:	4 </ br>
 ###### Requirements	5
 ###### Performance Requirements	5
