@@ -1,4 +1,4 @@
-#### Code Snippet:
+#### Code Snippet 1:
 
 Here's a code snippet in Python using the PyTorch library to define the generator network for the GAN:
 
