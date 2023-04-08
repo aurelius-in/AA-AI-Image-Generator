@@ -2,7 +2,7 @@
 ## AA AI Image Generator
 ## Technical Report
 ### Oliver Ellison, MS SD
-####3/06/2021
+#### 3/06/2021
 
 
 ##### Contents
@@ -84,14 +84,13 @@ In this work, we presented a novel DCGAN architecture for generating high-qualit
 In conclusion, we believe that our novel DCGAN architecture has demonstrated its effectiveness in generating high-quality images of tropical fish and human faces, and has the potential to be used in a variety of applications. We hope that our work will inspire further research and development in this exciting area of computer vision and machine learning.
 
 ## References
-[1] Goodfellow, I., et al. "Generative Adversarial Networks." arXiv preprint arXiv:1406.2661 (2014).
-[2] Radford, A., et al. "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks." arXiv preprint arXiv:1511.06434 (2015).
-[3] Reed, S., et al. "Generative Adversarial Text to Image Synthesis." arXiv preprint arXiv:1605.05396 (2016).
-[4] Zhang, H., et al. "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks." IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
-[5] DeepFish: A large-scale high-resolution fish image dataset for classification and retrieval. Available online: https://www.kaggle.com/crowww/deepfish (accessed on 7 April 2023).
-[6] Hands in the Million Challenge 2017 (HANDS2017). Available online: https://sites.google.com/view/hands2017/challenge (accessed on 7 April 2023).
-[7] Zhang, X., et al. "HandNet: A One-stop-shop Two-stream Network for 3D Hand Pose Estimation." arXiv preprint arXiv:1906.07601 (2019).
-[8] Isola, P., et al. "Image-to-Image Translation with Conditional Adversarial Networks." IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
-[9] Zhu, J. Y., et al. "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks." IEEE International Conference on Computer Vision (ICCV), 2017.
-[10] Larsen, A. B. L., et al. "Autoencoding Beyond Pixels Using a Learned Similarity Metric." International Conference on Machine Learning (ICML), 2016.
-
+##### [1] Goodfellow, I., et al. "Generative Adversarial Networks." arXiv preprint arXiv:1406.2661 (2014).
+##### [2] Radford, A., et al. "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks." arXiv preprint arXiv:1511.06434 (2015).
+##### [3] Reed, S., et al. "Generative Adversarial Text to Image Synthesis." arXiv preprint arXiv:1605.05396 (2016).
+##### [4] Zhang, H., et al. "StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks." IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+##### [5] DeepFish: A large-scale high-resolution fish image dataset for classification and retrieval. Available online: https://www.kaggle.com/crowww/deepfish (accessed on 7 February 2021).
+##### [6] Hands in the Million Challenge 2017 (HANDS2017). Available online: https://sites.google.com/view/hands2017/challenge (accessed on 7 February 2021).
+##### [7] Zhang, X., et al. "HandNet: A One-stop-shop Two-stream Network for 3D Hand Pose Estimation." arXiv preprint arXiv:1906.07601 (2019).
+##### [8] Isola, P., et al. "Image-to-Image Translation with Conditional Adversarial Networks." IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017.
+##### [9] Zhu, J. Y., et al. "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks." IEEE International Conference on Computer Vision (ICCV), 2017.
+##### [10] Larsen, A. B. L., et al. "Autoencoding Beyond Pixels Using a Learned Similarity Metric." International Conference on Machine Learning (ICML), 2016.
