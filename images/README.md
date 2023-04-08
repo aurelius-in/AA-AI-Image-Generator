@@ -7,7 +7,11 @@ I chose to generate images of hands, faces, and tropical fish to create a challe
 * Tropical fish are known to be easy to generate convincingly, and thus they provide a reference point for comparison with more challenging objects.
 
 ##### Hyper-paremeter adjustments: 
-I generated two sets of each image type - deformed and improved - and created animated gifs as slideshows to demonstrate the quality of generated images. The first set of images was generated with default hyperparameters, while the second set was generated after adjusting these parameters to improve the image quality.
+I generated two sets of each image type - deformed and improved - and created animated gifs as slideshows to demonstrate the quality of generated images. The first set of images was generated with default hyperparameters.
+
+![Alt Text](bad_faces.gif) ![Alt Text](bad_hands.gif) ![Alt Text](bad_fish.gif)
+
+while the second set was generated after adjusting these parameters to improve the image quality.
 
 The improved animated gifs clearly demonstrate that adjusting hyperparameters improved the quality of the generated images for each object type. The tropical fish images became very good, while the faces were not perfect but much better, and the hands became recognizable as hands, but they were still not of high quality.
 
