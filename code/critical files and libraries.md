@@ -4,12 +4,11 @@
 Python installed on the computer to run the code.
 
 #### Machine learning libraries to create the AI image generator: 
-Machine learning libraries including:
 ##### TensorFlow
 ##### Keras
 ##### PyTorch .
 
-#### Image processing libraries to preprocess the input images and generate the output images.
+#### Image processing libraries to preprocess the input images and generate the output images:
 ##### OpenCV
 ##### Pillow
 ##### Scikit-image 
