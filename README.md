@@ -16,11 +16,11 @@ On the ImageNet dataset, the AA AI Image Generator achieved a top-1 accuracy of 
 
 I generated two sets of each image type - deformed and improved - and created these animated gifs as slideshows to demonstrate the quality of generated images. The first set of images was generated with default hyperparameters.
 
- ![Alt Text](bad_hands.gif) ![Alt Text](bad_faces.gif) ![Alt Text](bad_fish.gif)
+ ![Alt Text](images/bad_hands.gif) ![Alt Text](images/bad_faces.gif) ![Alt Text](images/bad_fish.gif)
 
 ... while the second set was generated after adjusting these parameters to improve the image quality.
 
- ![Alt Text](good_hands.gif) ![Alt Text](good_faces.gif) ![Alt Text](good_fish.gif)
+ ![Alt Text](images/good_hands.gif) ![Alt Text](images/good_faces.gif) ![Alt Text](images/good_fish.gif)
 
 ##### Performance
 Overall, the AA AI Image Generator demonstrated excellent performance, surpassing established benchmarks on both datasets. Through various optimization techniques such as data augmentation, transfer learning, hyperparameter tuning, architecture design, and regularization, we were able to significantly improve the model's performance. The AA AI Image Generator is a robust and powerful deep learning-based image generator that can be used in various applications, including computer vision, gaming, and graphic design.
