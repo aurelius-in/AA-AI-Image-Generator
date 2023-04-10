@@ -13,6 +13,7 @@ I generated two sets of each image type - deformed and improved - and created an
 
 ... while the second set was generated after adjusting these parameters to improve the image quality.
 
+ ![Alt Text](good_hands.gif) ![Alt Text](good_faces.gif) ![Alt Text](good_fish.gif)
 
 
 The improved animated gifs clearly demonstrate that adjusting hyperparameters improved the quality of the generated images for each object type. The tropical fish images became very good, while the faces were not perfect but much better, and the hands became recognizable as hands, but they were still not of high quality.
@@ -27,7 +28,7 @@ For generating hands, I increased the number of layers in the generator to captu
 ##### Faces
 For generating faces, I adjusted the learning rate and the number of epochs to train the generator. I also used a different activation function that improved the sharpness of the generated images.
 
-* ![Alt Text](bad_faces.gif)  ![Alt Text](good_faces.gif)
+* ![Alt Text(bad_faces.gif)  ![Alt Text](good_faces.gif)
 
 ##### Fish
 For generating tropical fish, I increased the size of the generator to capture more details, used a different loss function that accounted for the colors and patterns of the fish, and added a random noise layer to increase the variability of the generated images.
